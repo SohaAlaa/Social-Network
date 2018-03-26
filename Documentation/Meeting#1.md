@@ -1,9 +1,13 @@
 # Meeting 1
+## Intro
+Monday, 26/3/2018
+All attended
 ## Topics
 - General Discusion
 - Used Technologies
 - Simple Design: Classes private data
 - Tasks distribusion
+- Next Meeting
 
 ## Used Technologies
 1. Python
@@ -48,3 +52,6 @@
 - Test Cases: To Be Assigned, Aka TBA
 - Login: TBA
 - Save & Load: TBA
+
+## Next Meeting
+- Monday, 2/4/2018: Detailed Design.
